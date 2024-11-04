@@ -52,8 +52,6 @@ http://tv.nousiptv.com:8080/virolawa/193723/1155823
 http://tv.nousiptv.com:8080/virolawa/193723/33481
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="MyC - RT ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-RT-espanol.png" group-title="• MUNDO Y CULTURA",MyC - RT ESPAÑOL
 http://tv.nousiptv.com:8080/virolawa/193723/1155802
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MyC - DW EN ESPANOL" tvg-logo="http://descargas.podzone.net/logos/-DW-en-espanol.png" group-title="• MUNDO Y CULTURA",MyC - DW EN ESPANOL
-http://tv.nousiptv.com:8080/virolawa/193723/1155821
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN 1 MX" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 MX
 http://tv.nousiptv.com:8080/virolawa/193723/1155892
 #EXTINF:-1 tvg-id="Espn2.mx" tvg-name="LD - ESPN 2 MX HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 MX HD
@@ -267,8 +265,6 @@ http://tv.nousiptv.com:8080/virolawa/193723/7436
 http://tv.nousiptv.com:8080/virolawa/193723/1148845
 #EXTINF:-1 tvg-id="" tvg-name="CINE - DHE" tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="• CINE",CINE - DHE
 http://tv.nousiptv.com:8080/virolawa/193723/24180
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="CINE - TBS" tvg-logo="http://descargas.podzone.net/logos/-TBS.png" group-title="• CINE",CINE - TBS
-http://tv.nousiptv.com:8080/virolawa/193723/4011
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA MARVEL STUDIOS" tvg-logo="http://descargas.podzone.net/logos/-cinema-marvel-studios.png" group-title="• CINE",CINE - CINEMA MARVEL STUDIOS
 http://tv.nousiptv.com:8080/virolawa/193723/44728
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="• CINE",CINE - MORBID TV
@@ -283,44 +279,12 @@ http://tv.nousiptv.com:8080/virolawa/193723/1155867
 http://tv.nousiptv.com:8080/virolawa/193723/4075
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO",ENT - DISCOVERY TURBO
 http://tv.nousiptv.com:8080/virolawa/193723/1155871
-#EXTINF:-1 tvg-id="GarageTV.es" tvg-name="ENT -  EL GARAGE HD" tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO",ENT -  EL GARAGE HD
-http://tv.nousiptv.com:8080/virolawa/193723/1155864
-#EXTINF:-1 tvg-id="GarageTV.es" tvg-name="ENT - EL GARAGE TV" tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO",ENT - EL GARAGE TV
-http://tv.nousiptv.com:8080/virolawa/193723/4016
-#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT - EL GOURMET FHD" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO",ENT - EL GOURMET FHD
-http://tv.nousiptv.com:8080/virolawa/193723/4042
-#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT - EL GOURMET HD" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO",ENT - EL GOURMET HD
-http://tv.nousiptv.com:8080/virolawa/193723/1155868
-#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ENT - COCINA " tvg-logo="http://descargas.podzone.net/logos/-cocina.png" group-title="• ENTRETENIMIENTO",ENT - COCINA 
-http://tv.nousiptv.com:8080/virolawa/193723/1153332
-#EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="ENT - FOOD NETWORK FHD" tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO",ENT - FOOD NETWORK FHD
-http://tv.nousiptv.com:8080/virolawa/193723/4057
-#EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="ENT - FOOD NETWORK" tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO",ENT - FOOD NETWORK
-http://tv.nousiptv.com:8080/virolawa/193723/4146
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ENT - COMEDY CENTRAL FHD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="• ENTRETENIMIENTO",ENT - COMEDY CENTRAL FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4039
 #EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ENT - Comedy Central HD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="• ENTRETENIMIENTO",ENT - Comedy Central HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155872
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENT - DISTRITO COMEDIA FHD" tvg-logo="http://descargas.podzone.net/logos/-distrito-comedia.png" group-title="• ENTRETENIMIENTO",ENT - DISTRITO COMEDIA FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4040
-#EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT - WOBI TV FHD" tvg-logo="http://descargas.podzone.net/logos/-wobi-tv.png" group-title="• ENTRETENIMIENTO",ENT - WOBI TV FHD
-http://tv.nousiptv.com:8080/virolawa/193723/4107
-#EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT -WOBI" tvg-logo="http://descargas.podzone.net/logos/-wobi-tv.png" group-title="• ENTRETENIMIENTO",ENT -WOBI
-http://tv.nousiptv.com:8080/virolawa/193723/4134
-#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="ENT - GLITZ FHD" tvg-logo="http://descargas.podzone.net/logos/-glitz.png" group-title="• ENTRETENIMIENTO",ENT - GLITZ FHD
-http://tv.nousiptv.com:8080/virolawa/193723/4045
-#EXTINF:-1 tvg-id="" tvg-name="ENT -  GLITZ " tvg-logo="http://descargas.podzone.net/logos/-glitz.png" group-title="• ENTRETENIMIENTO",ENT -  GLITZ 
-http://tv.nousiptv.com:8080/virolawa/193723/1155875
-#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV FHD" tvg-logo="http://descargas.podzone.net/logos/-hola-tv.png" group-title="• ENTRETENIMIENTO",ENT - HOLA TV FHD
-http://tv.nousiptv.com:8080/virolawa/193723/4046
-#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV HD" tvg-logo="http://descargas.podzone.net/logos/-hola-tv.png" group-title="• ENTRETENIMIENTO",ENT - HOLA TV HD
-http://tv.nousiptv.com:8080/virolawa/193723/1155874
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="ENT - MAS CHIC FHD" tvg-logo="http://descargas.podzone.net/logos/-MAS-chic.png" group-title="• ENTRETENIMIENTO",ENT - MAS CHIC FHD
-http://tv.nousiptv.com:8080/virolawa/193723/4047
-#EXTINF:-1 tvg-id="" tvg-name="ENT - EWTN" tvg-logo="http://descargas.podzone.net/logos/-EWTN.png" group-title="• ENTRETENIMIENTO",ENT - EWTN
-http://tv.nousiptv.com:8080/virolawa/193723/34609
-#EXTINF:-1 tvg-id="" tvg-name="ENT - BITME" tvg-logo="http://descargas.podzone.net/logos/-bitme.png" group-title="• ENTRETENIMIENTO",ENT - BITME
-http://tv.nousiptv.com:8080/virolawa/193723/47698
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="CINP - STARZ IN BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-in-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ IN BLACK
 http://tv.nousiptv.com:8080/virolawa/193723/8137
 #EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="CINP - STARZ ENCORE BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-encore-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE BLACK
@@ -394,16 +358,6 @@ http://tv.nousiptv.com:8080/virolawa/193723/4031
 http://tv.nousiptv.com:8080/virolawa/193723/1155855
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX - ONCE TV FHD" tvg-logo="http://descargas.podzone.net/logos/-once-tv.png" group-title="MEXICO",MX - ONCE TV FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4035
-#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX - ONCE TV NIÑOS Y NIÑAS" tvg-logo="http://descargas.podzone.net/logos/-once-tv-ninos-y-ninas.png" group-title="MEXICO",MX - ONCE TV NIÑOS Y NIÑAS
-http://tv.nousiptv.com:8080/virolawa/193723/47697
-#EXTINF:-1 tvg-id="" tvg-name="MX - TV UNAM" tvg-logo="http://descargas.podzone.net/logos/-tv-UNAM.png" group-title="MEXICO",MX - TV UNAM
-http://tv.nousiptv.com:8080/virolawa/193723/18574
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="MX - UNICABLE FHD" tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX - UNICABLE FHD
-http://tv.nousiptv.com:8080/virolawa/193723/4052
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - UNICABLE HD" tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX - UNICABLE HD
-http://tv.nousiptv.com:8080/virolawa/193723/1155852
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - UNICABLE " tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX - UNICABLE 
-http://tv.nousiptv.com:8080/virolawa/193723/1155853
 #EXTINF:-1 tvg-id="" tvg-name="MX- IMAGEN TV FHD" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="MEXICO",MX- IMAGEN TV FHD
 http://tv.nousiptv.com:8080/virolawa/193723/1124600
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MX - IMAGEN TV" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="MEXICO",MX - IMAGEN TV
@@ -422,28 +376,12 @@ http://tv.nousiptv.com:8080/virolawa/193723/1155857
 http://tv.nousiptv.com:8080/virolawa/193723/4026
 #EXTINF:-1 tvg-id="" tvg-name="MX - Comedy Central" tvg-logo="http://descargas.podzone.net/logos/-comedy-central-mx.png" group-title="MEXICO",MX - Comedy Central
 http://tv.nousiptv.com:8080/virolawa/193723/1158426
-#EXTINF:-1 tvg-id="" tvg-name="MX - MILENIO TV " tvg-logo="http://descargas.podzone.net/logos/-milenio-tv.png" group-title="MEXICO",MX - MILENIO TV 
-http://tv.nousiptv.com:8080/virolawa/193723/1158427
-#EXTINF:-1 tvg-id="" tvg-name="MX - INGENIO TV" tvg-logo="http://descargas.podzone.net/logos/-ingenio-tv.png" group-title="MEXICO",MX - INGENIO TV
-http://tv.nousiptv.com:8080/virolawa/193723/33358
-#EXTINF:-1 tvg-id="" tvg-name="MX - TELEVISA MTY" tvg-logo="http://descargas.podzone.net/logos/-televisa-MTY.png" group-title="MEXICO",MX - TELEVISA MTY
-http://tv.nousiptv.com:8080/virolawa/193723/4066
-#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MX - MULTIMEDIOS MONTERREY" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX - MULTIMEDIOS MONTERREY
-http://tv.nousiptv.com:8080/virolawa/193723/4125
-#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MX - MULTIMEDIOS MONTERREY PLUS" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX - MULTIMEDIOS MONTERREY PLUS
-http://tv.nousiptv.com:8080/virolawa/193723/4034
-#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MX - MULTIMEDIOS MONTERREY FHD" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX - MULTIMEDIOS MONTERREY FHD
-http://tv.nousiptv.com:8080/virolawa/193723/4033
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="MEXICO",MX - TELEFORMULA
 http://tv.nousiptv.com:8080/virolawa/193723/4129
 #EXTINF:-1 tvg-id="" tvg-name="MX -  Adrenalina Sports Network HD" tvg-logo="http://descargas.podzone.net/logos/-adrenalina-sports-network.png" group-title="MEXICO",MX -  Adrenalina Sports Network HD
 http://tv.nousiptv.com:8080/virolawa/193723/1153331
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA FHD" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="MEXICO",MX - TELEFORMULA FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4036
-#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="MX - TV4" tvg-logo="http://descargas.podzone.net/logos/-tv4.png" group-title="MEXICO",MX - TV4
-http://tv.nousiptv.com:8080/virolawa/193723/33367
-#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="MX - TVC" tvg-logo="http://descargas.podzone.net/logos/-tvc.png" group-title="MEXICO",MX - TVC
-http://tv.nousiptv.com:8080/virolawa/193723/4105
 #EXTINF:-1 tvg-id="" tvg-name="ES - HOLLYWOOD HD" tvg-logo="http://descargas.podzone.net/logos/-HOLLYWOOD.png" group-title="ESPAÑA",ES - HOLLYWOOD HD
 http://tv.nousiptv.com:8080/virolawa/193723/1156021
 #EXTINF:-1 tvg-id="DCineEspanol.es" tvg-name="ES - MOVISTAR CINE Ñ" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-CINE.png" group-title="ESPAÑA",ES - MOVISTAR CINE Ñ
@@ -503,8 +441,6 @@ http://tv.nousiptv.com:8080/virolawa/193723/29412
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Las Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←",ENT| Las Estrellas HD
 http://fastream.xyz:8080/936828595tv/c173z0o/632
-#EXTINF:-1 tvg-id="NONE" tvg-name="MX: A3CINE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/a3cine.png" group-title="CINE",MX: A3CINE
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1174
 #EXTINF:-1 tvg-id="I207.90653.schedulesdirect.org" tvg-name="MX: AMC" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/amc.png" group-title="CINE",MX: AMC
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1003
 #EXTINF:-1 tvg-id="I3124.62125.schedulesdirect.org" tvg-name="MX: CINE ESTELAR" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/cine_estelar.png" group-title="CINE",MX: CINE ESTELAR
@@ -637,12 +573,6 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1122
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1113
 #EXTINF:-1 tvg-id="I856.77033.schedulesdirect.org" tvg-name="MX: TUDN USA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_usa.png" group-title="DEPORTES",MX: TUDN USA
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1131
-#EXTINF:-1 tvg-id="I1150.57580.schedulesdirect.org" tvg-name="MX: TVC DEPORTES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tvc_deportes.png" group-title="DEPORTES",MX: TVC DEPORTES
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1125
-#EXTINF:-1 tvg-id="I160.60855.schedulesdirect.org" tvg-name="MX: TVC DEPORTES 2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tvc_deportes_2.png" group-title="DEPORTES",MX: TVC DEPORTES 2
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1126
-#EXTINF:-1 tvg-id="I469.111046.schedulesdirect.org" tvg-name="MX: TYC SPORTS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tyc_sports.png" group-title="DEPORTES",MX: TYC SPORTS
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1127
 #EXTINF:-1 tvg-id="I1240.72534.schedulesdirect.org" tvg-name="MX: AXN" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/axn.png" group-title="CINE",MX: AXN
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1005
 #EXTINF:-1 tvg-id="I219.74528.schedulesdirect.org" tvg-name="MX: COMEDY CENTRAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/comedy_central.png" group-title="ENTRETENIMIENTO",MX: COMEDY CENTRAL
@@ -655,16 +585,6 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1046
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1067
 #EXTINF:-1 tvg-id="I273.68367.schedulesdirect.org" tvg-name="MX: GALAVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/galavision.png" group-title="ENTRETENIMIENTO",MX: GALAVISION
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1069
-#EXTINF:-1 tvg-id="I1221.92054.schedulesdirect.org" tvg-name="MX: HOLA TV" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/hola_tv.png" group-title="ENTRETENIMIENTO",MX: HOLA TV
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1080
-#EXTINF:-1 tvg-id="NONE" tvg-name="MX: KANAL D DRAMA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/kanal_d_drama.png" group-title="ENTRETENIMIENTO",MX: KANAL D DRAMA
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1015
-#EXTINF:-1 tvg-id="I1248.90682.schedulesdirect.org" tvg-name="MX: LIFETIME" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/lifetime.png" group-title="ENTRETENIMIENTO",MX: LIFETIME
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1153
-#EXTINF:-1 tvg-id="I3021.47499.schedulesdirect.org" tvg-name="MX: MEXICANAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/mexicanal.png" group-title="ENTRETENIMIENTO",MX: MEXICANAL
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1088
-#EXTINF:-1 tvg-id="I106.110436.schedulesdirect.org" tvg-name="MX: MULTIMEDIOS CANAL 6" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/multimedioscanal6.png" group-title="ENTRETENIMIENTO",MX: MULTIMEDIOS CANAL 6
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1172
 #EXTINF:-1 tvg-id="I1223.19385.schedulesdirect.org" tvg-name="MX: SONY" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sony.png" group-title="ENTRETENIMIENTO",MX: SONY
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1106
 #EXTINF:-1 tvg-id="I1211.88534.schedulesdirect.org" tvg-name="MX: STAR CHANNEL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/star_channel.png" group-title="ENTRETENIMIENTO",MX: STAR CHANNEL
@@ -673,10 +593,6 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1054
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1116
 #EXTINF:-1 tvg-id="I1226.64835.schedulesdirect.org" tvg-name="MX: TELEMUNDO INT" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="ENTRETENIMIENTO",MX: TELEMUNDO INT
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1045
-#EXTINF:-1 tvg-id="I209.37232.schedulesdirect.org" tvg-name="MX: TLNOVELAS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tlnovelas.png" group-title="ENTRETENIMIENTO",MX: TLNOVELAS
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1170
-#EXTINF:-1 tvg-id="I191.74550.schedulesdirect.org" tvg-name="MX: TLNOVELAS UNIVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tlnovelas_univision.png" group-title="ENTRETENIMIENTO",MX: TLNOVELAS UNIVISION
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1119
 #EXTINF:-1 tvg-id="I1419.80807.schedulesdirect.org" tvg-name="MX: TNT" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt.png" group-title="ENTRETENIMIENTO",MX: TNT
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1120
 #EXTINF:-1 tvg-id="I1233.92075.schedulesdirect.org" tvg-name="MX: TNT SERIES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt_series.png" group-title="ENTRETENIMIENTO",MX: TNT SERIES
