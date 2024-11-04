@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/L1xGJS8.jpeg" group-title="ESTRENOS 2024",De las cenizas (2024) http://vod.tuxchannel.mx/peliculas/720/from%20the%20ashes%202024.mkv
 #EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »1«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←",CUL• TLC (HD) »1«
 http://fastream.xyz:8080/936828595tv/c173z0o/447
 #EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »2«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←",CUL• TLC (HD) »2«
 http://fastream.xyz:8080/936828595tv/c173z0o/448
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ENT| Las Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←",ENT| Las Estrellas HD
 http://fastream.xyz:8080/936828595tv/c173z0o/632
 #EXTINF:-1 tvg-id="NONE" tvg-name="MX: A3CINE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/a3cine.png" group-title="CINE",MX: A3CINE
