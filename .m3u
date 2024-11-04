@@ -197,8 +197,6 @@ http://tv.nousiptv.com:8080/virolawa/193723/4099
 http://tv.nousiptv.com:8080/virolawa/193723/4053
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="• CINE",CINE - WARNER
 http://tv.nousiptv.com:8080/virolawa/193723/1155808
-#EXTINF:-1 tvg-id="TCM.mx" tvg-name="CINE - TCM" tvg-logo="http://descargas.podzone.net/logos/-TCM.png" group-title="• CINE",CINE - TCM
-http://tv.nousiptv.com:8080/virolawa/193723/1155806
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DC UNIVERSE" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DC-UNIVERSE.png" group-title="• CINE",CINE - CINEMA DC UNIVERSE
 http://tv.nousiptv.com:8080/virolawa/193723/1161848
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DREAMWORKS" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DREAMWORKS.png" group-title="• CINE",CINE - CINEMA DREAMWORKS
@@ -269,8 +267,6 @@ http://tv.nousiptv.com:8080/virolawa/193723/24180
 http://tv.nousiptv.com:8080/virolawa/193723/44728
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="• CINE",CINE - MORBID TV
 http://tv.nousiptv.com:8080/virolawa/193723/33364
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="ENT - LIFETIME HD" tvg-logo="http://descargas.podzone.net/logos/-lifetime.png" group-title="• ENTRETENIMIENTO",ENT - LIFETIME HD
-http://tv.nousiptv.com:8080/virolawa/193723/1155873
 #EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT - E! ENTERTAINMENT FHD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO",ENT - E! ENTERTAINMENT FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4041
 #EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -  E! ENTERTAINMENT HD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO",ENT -  E! ENTERTAINMENT HD
@@ -321,7 +317,6 @@ http://tv.nousiptv.com:8080/virolawa/193723/8146
 http://tv.nousiptv.com:8080/virolawa/193723/8142
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - RETROPLEX HD" tvg-logo="http://descargas.podzone.net/logos/-retroplex.png" group-title="•CINEMA PREMIUM•",CINP - RETROPLEX HD
 http://tv.nousiptv.com:8080/virolawa/193723/8147
-#EXTINF:-1 tvg-id="MonteCarloTV.uy" tvg-name="URU - CANAL 4 HD" tvg-logo="http://descargas.podzone.net/logos/-Canal-4.png" group-title="URUGUAY",URU - CANAL 4 HD
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX - AZTECA UNO HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX - AZTECA UNO HD
 http://tv.nousiptv.com:8080/virolawa/193723/4087
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA UNO HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX - AZTECA UNO HD
@@ -344,8 +339,6 @@ http://tv.nousiptv.com:8080/virolawa/193723/4028
 http://tv.nousiptv.com:8080/virolawa/193723/1155865
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CANAL 5" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="MEXICO",MX - CANAL 5
 http://tv.nousiptv.com:8080/virolawa/193723/1155866
-#EXTINF:-1 tvg-id="" tvg-name="MX - CN6" tvg-logo="http://descargas.podzone.net/logos/-CN6.png" group-title="MEXICO",MX - CN6
-http://tv.nousiptv.com:8080/virolawa/193723/1160042
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX - AZTECA 7 FHD" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX - AZTECA 7 FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4027
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA 7 HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX - AZTECA 7 HD
@@ -366,8 +359,6 @@ http://tv.nousiptv.com:8080/virolawa/193723/4149
 http://tv.nousiptv.com:8080/virolawa/193723/4025
 #EXTINF:-1 tvg-id="TDN.mx" tvg-name="MX - TUDN MX FHD" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="MEXICO",MX - TUDN MX FHD
 http://tv.nousiptv.com:8080/virolawa/193723/1105665
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZ MUNDO FHD" tvg-logo="http://descargas.podzone.net/logos/-AZ-mundo.png" group-title="MEXICO",MX - AZ MUNDO FHD
-http://tv.nousiptv.com:8080/virolawa/193723/4055
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZ CINEMA FHD" tvg-logo="http://descargas.podzone.net/logos/-AZ-cinema.png" group-title="MEXICO",MX - AZ CINEMA FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4086
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CORAZON HD " tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="MEXICO",MX - CORAZON HD 
@@ -378,22 +369,10 @@ http://tv.nousiptv.com:8080/virolawa/193723/4026
 http://tv.nousiptv.com:8080/virolawa/193723/1158426
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="MEXICO",MX - TELEFORMULA
 http://tv.nousiptv.com:8080/virolawa/193723/4129
-#EXTINF:-1 tvg-id="" tvg-name="MX -  Adrenalina Sports Network HD" tvg-logo="http://descargas.podzone.net/logos/-adrenalina-sports-network.png" group-title="MEXICO",MX -  Adrenalina Sports Network HD
-http://tv.nousiptv.com:8080/virolawa/193723/1153331
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA FHD" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="MEXICO",MX - TELEFORMULA FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4036
 #EXTINF:-1 tvg-id="" tvg-name="ES - HOLLYWOOD HD" tvg-logo="http://descargas.podzone.net/logos/-HOLLYWOOD.png" group-title="ESPAÑA",ES - HOLLYWOOD HD
 http://tv.nousiptv.com:8080/virolawa/193723/1156021
-#EXTINF:-1 tvg-id="DCineEspanol.es" tvg-name="ES - MOVISTAR CINE Ñ" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-CINE.png" group-title="ESPAÑA",ES - MOVISTAR CINE Ñ
-http://tv.nousiptv.com:8080/virolawa/193723/6026
-#EXTINF:-1 tvg-id="" tvg-name="ES - MOVISTAR ESTRENOS HD" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-ESTRENOS.png" group-title="ESPAÑA",ES - MOVISTAR ESTRENOS HD
-http://tv.nousiptv.com:8080/virolawa/193723/1156025
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="ES - MOVISTAR SERIES" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-SERIES.png" group-title="ESPAÑA",ES - MOVISTAR SERIES
-http://tv.nousiptv.com:8080/virolawa/193723/6027
-#EXTINF:-1 tvg-id="" tvg-name="ES  - MOVISTAR COMEDIA" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-COMEDIA.png" group-title="ESPAÑA",ES  - MOVISTAR COMEDIA
-http://tv.nousiptv.com:8080/virolawa/193723/1156026
-#EXTINF:-1 tvg-id="" tvg-name="ES - MOVISTAR ACCION" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-ACCION.png" group-title="ESPAÑA",ES - MOVISTAR ACCION
-http://tv.nousiptv.com:8080/virolawa/193723/1156027
 #EXTINF:-1 tvg-id="" tvg-name="ES - TAQUILLA 1" tvg-logo="http://descargas.podzone.net/logos/-TAQUILLA-1.png" group-title="ESPAÑA",ES - TAQUILLA 1
 http://tv.nousiptv.com:8080/virolawa/193723/1156039
 #EXTINF:-1 tvg-id="" tvg-name="ES - TAQUILLA 2" tvg-logo="http://descargas.podzone.net/logos/-TAQUILLA-1.png" group-title="ESPAÑA",ES - TAQUILLA 2
@@ -503,8 +482,6 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1145
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1105
 #EXTINF:-1 tvg-id="I103.29017.schedulesdirect.org" tvg-name="MX: STUDIO UNIVERSAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/studio_universal.png" group-title="CINE",MX: STUDIO UNIVERSAL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1108
-#EXTINF:-1 tvg-id="I436.19246.schedulesdirect.org" tvg-name="MX: TCM" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tcm.png" group-title="CINE",MX: TCM
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1112
 #EXTINF:-1 tvg-id="I1235.87004.schedulesdirect.org" tvg-name="MX: AE LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/ae_latino.png" group-title="CINE",MX: A&E
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1001
 #EXTINF:-1 tvg-id="I1269.107374.schedulesdirect.org" tvg-name="MX: ANIMAL PLANET" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/animal_planet.png" group-title="CULTURA",MX: ANIMAL PLANET
@@ -519,8 +496,6 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1040
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1041
 #EXTINF:-1 tvg-id="I1275.66488.schedulesdirect.org" tvg-name="MX: DISCOVERY WORLD" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/discovery_world.png" group-title="CULTURA",MX: DISCOVERY WORLD
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1043
-#EXTINF:-1 tvg-id="I223.45910.schedulesdirect.org" tvg-name="MX: EL GOURMET" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/el_gourmet.png" group-title="CULTURA",MX: EL GOURMET
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1047
 #EXTINF:-1 tvg-id="I273.111055.schedulesdirect.org" tvg-name="MX: HGTV" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/hgtv.png" group-title="CULTURA",MX: HGTV
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1176
 #EXTINF:-1 tvg-id="I1264.80374.schedulesdirect.org" tvg-name="MX: HISTORY 2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/history_2.png" group-title="CULTURA",MX: HISTORY 2
@@ -529,8 +504,6 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1150
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1078
 #EXTINF:-1 tvg-id="I1224.25793.schedulesdirect.org" tvg-name="MX: INVESTIGATION DISCOVERY" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/investigation_discovery.png" group-title="CULTURA",MX: INVESTIGATION DISCOVERY
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1082
-#EXTINF:-1 tvg-id="I224.17457.schedulesdirect.org" tvg-name="MX: MAS CHIC" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/mas_chic.png" group-title="CULTURA",MX: MAS CHIC
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1084
 #EXTINF:-1 tvg-id="I280.25068.schedulesdirect.org" tvg-name="MX: NAT GEO LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nat_geo_latino.png" group-title="CULTURA",MX: NAT GEO LATINO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1092
 #EXTINF:-1 tvg-id="NONE" tvg-name="MX: NAT GEO WILD" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nat_geo_wild.png" group-title="CULTURA",MX: NAT GEO WILD
@@ -557,10 +530,6 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1065
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1066
 #EXTINF:-1 tvg-id="I1310.123582.schedulesdirect.org" tvg-name="MX: FOX SPORTS PREMIUM MX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_sports_premium_mx.png" group-title="DEPORTES",MX: FOX SPORTS PREMIUM MX
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1055
-#EXTINF:-1 tvg-id="I1656.69101.schedulesdirect.org" tvg-name="MX: GOL TV" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/gol_tv.png" group-title="DEPORTES",MX: GOL TV
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1070
-#EXTINF:-1 tvg-id="I313.61033.schedulesdirect.org" tvg-name="MX: GOLF CHANNEL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/golf_channel.png" group-title="DEPORTES",MX: GOLF CHANNEL
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1071
 #EXTINF:-1 tvg-id="NONE" tvg-name="MX: SKY SPORTS A MEX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sky_sport.png" group-title="DEPORTES",MX: SKY SPORTS A MEX
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1148
 #EXTINF:-1 tvg-id="NONE" tvg-name="MX: SKY SPORTS C MEX" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sky_sport.png" group-title="DEPORTES",MX: SKY SPORTS C MEX
@@ -737,16 +706,10 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2080
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2081
 #EXTINF:-1 tvg-id="I1224.25793.schedulesdirect.org" tvg-name="*MX: INVESTIGATION DISCOVERY" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/investigation_discovery.png" group-title="CULTURA",*MX: ID
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2082
-#EXTINF:-1 tvg-id="NONE" tvg-name="*MX: KANAL D DRAMA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/kanal_d_drama.png" group-title="ENTRETENIMIENTO",*MX: KANAL D DRAMA
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2015
 #EXTINF:-1 tvg-id="I1102.16461.schedulesdirect.org" tvg-name="*MX: LAS ESTRELLAS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/las_estrellas.png" group-title="MEXICO",*MX: LAS ESTRELLAS
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2083
 #EXTINF:-1 tvg-id="I1148.70110.schedulesdirect.org" tvg-name="*MX: LAS ESTRELLAS -2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/las_estrellas_-2.png" group-title="MEXICO",*MX: LAS ESTRELLAS -2
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2152
-#EXTINF:-1 tvg-id="I1248.90682.schedulesdirect.org" tvg-name="*MX: LIFETIME" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/lifetime.png" group-title="ENTRETENIMIENTO",*MX: LIFETIME
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/215
-#EXTINF:-1 tvg-id="I224.17457.schedulesdirect.org" tvg-name="*MX: MAS CHIC" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/mas_chic.png" group-title="ENTRETENIMIENTO",*MX: MAS CHIC
-http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2084
 #EXTINF:-1 tvg-id="I156.61719.schedulesdirect.org" tvg-name="*MX: MILENIO TV" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/milenio_tv.png" group-title="NOTICIAS",*MX: MILENIO TV
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2139
 #EXTINF:-1 tvg-id="I280.25068.schedulesdirect.org" tvg-name="*MX: NAT GEO LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nat_geo_latino.png" group-title="CULTURA",*MX: NATGEO
