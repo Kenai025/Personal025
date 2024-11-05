@@ -44,7 +44,7 @@ http://tv.nousiptv.com:8080/virolawa/193723/4005
 http://tv.nousiptv.com:8080/virolawa/193723/4097
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MyC - NATGEO" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="CULTURA",CUL - NATGEO
 http://tv.nousiptv.com:8080/virolawa/193723/4126
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="MYC - TLC FHD" tvg-logo="http://descargas.podzone.net/logos2/-TLC.png" group-title="• MUNDO Y CULTURA",MYC - TLC FHD
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="MYC - TLC FHD" tvg-logo="http://descargas.podzone.net/logos2/-TLC.png" group-title="CULTURA",CUL - TLC FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4074
 #EXTINF:-1 tvg-id="" tvg-name="MyC - HGTV HD" tvg-logo="http://descargas.podzone.net/logos/-HGTV.png" group-title="• MUNDO Y CULTURA",CUL - HGTV HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155823
@@ -243,35 +243,35 @@ http://tv.nousiptv.com:8080/virolawa/193723/4100
 http://tv.nousiptv.com:8080/virolawa/193723/1155803
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL REALITY" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png" group-title="CINE",CINE - UNIVERSAL REALITY
 http://tv.nousiptv.com:8080/virolawa/193723/1119205
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CINEMA" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png" group-title="CINE",CINE - UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CINEMA" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png" group-title="CINE",MX - UNIVERSAL CINEMA
 http://tv.nousiptv.com:8080/virolawa/193723/1119206
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="CINE",CINE - UNIVERSAL CRIME ESTE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="CINE",MX - UNIVERSAL CRIME ESTE
 http://tv.nousiptv.com:8080/virolawa/193723/1119203
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="CINE",CINE - UNIVERSAL PREMIER ESTE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="CINE",MX - UNIVERSAL PREMIER ESTE
 http://tv.nousiptv.com:8080/virolawa/193723/1119204
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL COMEDY" tvg-logo="http://descargas.podzone.net/logos/-universal-comedy.png" group-title="CINE",CINE - UNIVERSAL COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL COMEDY" tvg-logo="http://descargas.podzone.net/logos/-universal-comedy.png" group-title="CINE",MX - UNIVERSAL COMEDY
 http://tv.nousiptv.com:8080/virolawa/193723/1119202
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="CINE",CINE - UNIVERSAL CRIME OESTE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="CINE",MX - UNIVERSAL CRIME OESTE
 http://tv.nousiptv.com:8080/virolawa/193723/1119200
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="CINE",CINE - UNIVERSAL PREMIER OESTE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="CINE",MX - UNIVERSAL PREMIER OESTE
 http://tv.nousiptv.com:8080/virolawa/193723/1119201
-#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="http://descargas.podzone.net/logos/-panico-tv.png" group-title="CINE",CINE - PANICO TV HD
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="http://descargas.podzone.net/logos/-panico-tv.png" group-title="CINE",MX - PANICO TV HD
 http://tv.nousiptv.com:8080/virolawa/193723/7436
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MULTICINEMA" tvg-logo="data:image/png;base64,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" group-title="CINE",CINE - MULTICINEMA
 http://tv.nousiptv.com:8080/virolawa/193723/1148845
-#EXTINF:-1 tvg-id="" tvg-name="CINE - DHE" tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="CINE",CINE - DHE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - DHE" tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="CINE",MX - DHE
 http://tv.nousiptv.com:8080/virolawa/193723/24180
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA MARVEL STUDIOS" tvg-logo="http://descargas.podzone.net/logos/-cinema-marvel-studios.png" group-title="CINE",CINE - CINEMA MARVEL STUDIOS
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA MARVEL STUDIOS" tvg-logo="http://descargas.podzone.net/logos/-cinema-marvel-studios.png" group-title="CINE",MX - CINEMA MARVEL STUDIOS
 http://tv.nousiptv.com:8080/virolawa/193723/44728
-#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="CINE",CINE - MORBID TV
+#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="CINE",MX - MORBID TV
 http://tv.nousiptv.com:8080/virolawa/193723/33364
-#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT - E! ENTERTAINMENT FHD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="CULTURA",CUL - E! ENTERTAINMENT FHD
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT - E! ENTERTAINMENT FHD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="CULTURA",MX - E! ENTERTAINMENT FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4041
-#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -  E! ENTERTAINMENT HD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="CULTURA",CUL -  E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -  E! ENTERTAINMENT HD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="CULTURA",MX -  E! ENTERTAINMENT HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155867
-#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="CULTURA",CULT - DISCOVERY TURBO FHD
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="CULTURA",MX - DISCOVERY TURBO FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4075
-#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="CULTURA",CULT - DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="CULTURA",MX - DISCOVERY TURBO
 http://tv.nousiptv.com:8080/virolawa/193723/1155871
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ENT - COMEDY CENTRAL FHD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="ENTRETENIMIENTO",ENT - COMEDY CENTRAL FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4039
@@ -404,7 +404,7 @@ http://tvgusplay.info:8080/rXtKqat6jbME/fFmBJCEncqtS/218716
 #EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="││TV││ ℗ HBO LATAM 4K/SD ℗",HBO SIGNATURE FHD
 http://tvgusplay.info:8080/rXtKqat6jbME/fFmBJCEncqtS/218747
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ENT| Las Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←",ENT| Las Estrellas HD
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Las Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TV ABIERTA",MX: Las Estrellas HD
 http://fastream.xyz:8080/936828595tv/c173z0o/632
 #EXTINF:-1 tvg-id="I207.90653.schedulesdirect.org" tvg-name="MX: AMC" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/amc.png" group-title="CINE",MX: AMC
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1003
@@ -534,25 +534,25 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1005
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1031
 #EXTINF:-1 tvg-id="I1218.55980.schedulesdirect.org" tvg-name="MX: DISTRITO COMEDIA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/distrito_comedia.png" group-title="ENTRETENIMIENTO",MX: DISTRITO COMEDIA
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1155
-#EXTINF:-1 tvg-id="I1221.30259.schedulesdirect.org" tvg-name="MX: E ENTERTAINMENT LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/e_entertainment_latino.png" group-title="ENTRETENIMIENTO",MX: E ENTERTAINMENT LATINO
+#EXTINF:-1 tvg-id="I1221.30259.schedulesdirect.org" tvg-name="MX: E ENTERTAINMENT LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/e_entertainment_latino.png" group-title="CULTURA",MX: E ENTERTAINMENT LATINO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1046
-#EXTINF:-1 tvg-id="I217.46442.schedulesdirect.org" tvg-name="MX: FX CENTRAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fx_central.png" group-title="ENTRETENIMIENTO",MX: FX CENTRAL
+#EXTINF:-1 tvg-id="I217.46442.schedulesdirect.org" tvg-name="MX: FX CENTRAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fx_central.png" group-title="CINE",MX: FX CENTRAL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1067
-#EXTINF:-1 tvg-id="I273.68367.schedulesdirect.org" tvg-name="MX: GALAVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/galavision.png" group-title="ENTRETENIMIENTO",MX: GALAVISION
+#EXTINF:-1 tvg-id="I273.68367.schedulesdirect.org" tvg-name="MX: GALAVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/galavision.png" group-title="TV ABIERTA",MX: GALAVISION
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1069
-#EXTINF:-1 tvg-id="I1223.19385.schedulesdirect.org" tvg-name="MX: SONY" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sony.png" group-title="ENTRETENIMIENTO",MX: SONY
+#EXTINF:-1 tvg-id="I1223.19385.schedulesdirect.org" tvg-name="MX: SONY" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sony.png" group-title="CINE",MX: SONY
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1106
-#EXTINF:-1 tvg-id="I1211.88534.schedulesdirect.org" tvg-name="MX: STAR CHANNEL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/star_channel.png" group-title="ENTRETENIMIENTO",MX: STAR CHANNEL
+#EXTINF:-1 tvg-id="I1211.88534.schedulesdirect.org" tvg-name="MX: STAR CHANNEL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/star_channel.png" group-title="CINE",MX: STAR CHANNEL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1054
-#EXTINF:-1 tvg-id="I835.10239.schedulesdirect.org" tvg-name="MX: TELEMUNDO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/telemundo.png" group-title="ENTRETENIMIENTO",MX: TELEMUNDO
+#EXTINF:-1 tvg-id="I835.10239.schedulesdirect.org" tvg-name="MX: TELEMUNDO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/telemundo.png" group-title="TV ABIERTA",MX: TELEMUNDO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1116
-#EXTINF:-1 tvg-id="I1226.64835.schedulesdirect.org" tvg-name="MX: TELEMUNDO INT" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="ENTRETENIMIENTO",MX: TELEMUNDO INT
+#EXTINF:-1 tvg-id="I1226.64835.schedulesdirect.org" tvg-name="MX: TELEMUNDO INT" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="TV ABIERTA",MX: TELEMUNDO INT
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1045
-#EXTINF:-1 tvg-id="I1419.80807.schedulesdirect.org" tvg-name="MX: TNT" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt.png" group-title="ENTRETENIMIENTO",MX: TNT
+#EXTINF:-1 tvg-id="I1419.80807.schedulesdirect.org" tvg-name="MX: TNT" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt.png" group-title="CINE",MX: TNT
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1120
-#EXTINF:-1 tvg-id="I1233.92075.schedulesdirect.org" tvg-name="MX: TNT SERIES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt_series.png" group-title="ENTRETENIMIENTO",MX: TNT SERIES
+#EXTINF:-1 tvg-id="I1233.92075.schedulesdirect.org" tvg-name="MX: TNT SERIES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt_series.png" group-title="CINE",MX: TNT SERIES
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1121
-#EXTINF:-1 tvg-id="I1242.77534.schedulesdirect.org" tvg-name="MX: UNIVERSAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universal.png" group-title="ENTRETENIMIENTO",MX: UNIVERSAL
+#EXTINF:-1 tvg-id="I1242.77534.schedulesdirect.org" tvg-name="MX: UNIVERSAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universal.png" group-title="CINE",MX: UNIVERSAL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1129
 #EXTINF:-1 tvg-id="NONE" tvg-name="MX: UNIVERSAL CRIME" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universal.png" group-title="CINE",MX: UNIVERSAL CRIME
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1142
@@ -562,7 +562,7 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1141
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1130
 #EXTINF:-1 tvg-id="I827.11118.schedulesdirect.org" tvg-name="MX: UNIVISION" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/univision.png" group-title="TV ABIERTA",MX: UNIVISION
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1132
-#EXTINF:-1 tvg-id="I1247.56727.schedulesdirect.org" tvg-name="MX: USA MX" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="ENTRETENIMIENTO",MX: USA MX
+#EXTINF:-1 tvg-id="I1247.56727.schedulesdirect.org" tvg-name="MX: USA MX" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="CINE",MX: USA MX
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1110
 #EXTINF:-1 tvg-id="I1212.98111.schedulesdirect.org" tvg-name="MX: WARNER CHANNEL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/warner_channel.png" group-title="CINE",MX: WARNER CHANNEL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1136
@@ -606,7 +606,7 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2026
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2028
 #EXTINF:-1 tvg-id="I154.27773.schedulesdirect.org" tvg-name="*MX: CNN" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/cnn.png" group-title="NOTICIAS",*MX: CNN
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2030
-#EXTINF:-1 tvg-id="I219.74528.schedulesdirect.org" tvg-name="*MX: COMEDY CENTRAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/comedy_central.png" group-title="MEXICO",*MX: COMEDY CENTRAL
+#EXTINF:-1 tvg-id="I219.74528.schedulesdirect.org" tvg-name="*MX: COMEDY CENTRAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/comedy_central.png" group-title="ENTRETENIMIENTO",*MX: COMEDY CENTRAL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2031
 #EXTINF:-1 tvg-id="I225.59582.schedulesdirect.org" tvg-name="*MX: DISCOVERY H AND H" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/discovery_h_and_h.png" group-title="CULTURA",*MX: H&H
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2036
@@ -622,9 +622,9 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2042
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2043
 #EXTINF:-1 tvg-id="I1218.55980.schedulesdirect.org" tvg-name="*MX: DISTRITO COMEDIA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/distrito_comedia.png" group-title="ENTRETENIMIENTO",*MX: DISTRITO COMEDIA
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2155
-#EXTINF:-1 tvg-id="I1221.30259.schedulesdirect.org" tvg-name="*MX: E ENTERTAINMENT LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/e_entertainment_latino.png" group-title="ENTRETENIMINETO",*MX: E ENTERTAINMENT LATINO
+#EXTINF:-1 tvg-id="I1221.30259.schedulesdirect.org" tvg-name="*MX: E ENTERTAINMENT LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/e_entertainment_latino.png" group-title="CULTURA",*MX: E ENTERTAINMENT LATINO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2046
-#EXTINF:-1 tvg-id="I382.74073.schedulesdirect.org" tvg-name="*MX: EPIX HITS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/epix_hits.png" group-title="CINE Y SERIES",*MX: EPIX HITS
+#EXTINF:-1 tvg-id="I382.74073.schedulesdirect.org" tvg-name="*MX: EPIX HITS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/epix_hits.png" group-title="CINE",*MX: EPIX HITS
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2118
 #EXTINF:-1 tvg-id="I1553.110964.schedulesdirect.org" tvg-name="*MX: ESPN" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/espn_mx.png" group-title="DEPORTES",*MX: ESPN
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2048
@@ -640,7 +640,7 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2161
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2183
 #EXTINF:-1 tvg-id="I1435.99979.schedulesdirect.org" tvg-name="*MX: EUROPA EUROPA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/europa_europa.png" group-title="CINE",*MX: EUROPA EUROPA
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2184
-#EXTINF:-1 tvg-id="I3108.76964.schedulesdirect.org" tvg-name="*MX: FOROTV" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/forotv.png" group-title="NOTICIAS)",*MX: FOROTV
+#EXTINF:-1 tvg-id="I3108.76964.schedulesdirect.org" tvg-name="*MX: FOROTV" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/forotv.png" group-title="NOTICIAS",*MX: FOROTV
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2053
 #EXTINF:-1 tvg-id="I3114.15377.schedulesdirect.org" tvg-name="*MX: FOX DEPORTES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/fox_deportes.png" group-title="DEPORTES",*MX: FOX DEPORTES
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2022
