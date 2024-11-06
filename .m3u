@@ -159,9 +159,9 @@ http://tv.nousiptv.com:8080/virolawa/193723/1155785
 http://tv.nousiptv.com:8080/virolawa/193723/4048
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="CINE",MX SONY
 http://tv.nousiptv.com:8080/virolawa/193723/1155800
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY MOVIES" tvg-logo="http://descargas.podzone.net/logos/-sony-movies.png" group-title="CINE",MX - SONY MOVIES
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY MOVIES" tvg-logo="http://descargas.podzone.net/logos/-sony-movies.png" group-title="CINE",MX SONY MOVIES
 http://tv.nousiptv.com:8080/virolawa/193723/1143816
-#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="CINE",MX - PARAMOUNT NETWORK
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="CINE",MX PARAMOUNT NETWORK
 http://tv.nousiptv.com:8080/virolawa/193723/4065
 #EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK HD" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="CINE",MX PARAMOUNT NETWORK HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155799
@@ -287,49 +287,49 @@ http://tv.nousiptv.com:8080/virolawa/193723/1155859
 http://tv.nousiptv.com:8080/virolawa/193723/1155860
 #EXTINF:-1 tvg-id="CanalEstrellas.es" tvg-name="MX - EL CANAL DE LAS ESTRELLAS HD" tvg-logo="http://descargas.podzone.net/logos/-el-canal-de-las-estrellas.png" group-title="TV ABIERTA",MX - EL CANAL DE LAS ESTRELLAS HD
 http://tv.nousiptv.com:8080/virolawa/193723/4030
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX -  FORO TV HD" tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="NOTICIAS",MX  FORO TV HD
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX -  FORO TV HD" tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="NOTICIAS",MX FORO TV HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155869
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX -  FORO TV " tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="NOTICIAS",MX  FORO TV 
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX -  FORO TV " tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="NOTICIAS",MX FORO TV 
 http://tv.nousiptv.com:8080/virolawa/193723/1155870
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="MX - FORO TV" tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="NOTICIAS",MX FORO TV
 http://tv.nousiptv.com:8080/virolawa/193723/4029
-#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="MX - CANAL 5 FHD" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="TV ABIERTA",MX - CANAL 5 FHD
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="MX - CANAL 5 FHD" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="TV ABIERTA",MX CANAL 5 FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4028
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CANAL 5 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="TV ABIERTA",MX - CANAL 5 HD
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CANAL 5 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="TV ABIERTA",MX CANAL 5 HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155865
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CANAL 5" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="TV ABIERTA",MX - CANAL 5
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CANAL 5" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="TV ABIERTA",MX CANAL 5
 http://tv.nousiptv.com:8080/virolawa/193723/1155866
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX - AZTECA 7 FHD" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="TV ABIERTA",MX - AZTECA 7 FHD
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX - AZTECA 7 FHD" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="TV ABIERTA",MX AZTECA 7 FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4027
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA 7 HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="TV ABIERTA",MX - AZTECA 7 HD
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA 7 HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="TV ABIERTA",MX AZTECA 7 HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155862
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA 7" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="TV ABIERTA",MX - AZTECA 7
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA 7" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="TV ABIERTA",MX AZTECA 7
 http://tv.nousiptv.com:8080/virolawa/193723/1155863
-#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="MX - GALA TV" tvg-logo="http://descargas.podzone.net/logos/-gala-tv.png" group-title="TV ABIERTA",MX - GALA TV
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="MX - GALA TV" tvg-logo="http://descargas.podzone.net/logos/-gala-tv.png" group-title="TV ABIERTA",MX GALA TV
 http://tv.nousiptv.com:8080/virolawa/193723/4031
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - NUEVE" tvg-logo="http://descargas.podzone.net/logos/-nueve.png" group-title="TV ABIERTA",MX - NUEVE
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - NUEVE" tvg-logo="http://descargas.podzone.net/logos/-nueve.png" group-title="TV ABIERTA",MX NUEVE
 http://tv.nousiptv.com:8080/virolawa/193723/1155855
-#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX - ONCE TV FHD" tvg-logo="http://descargas.podzone.net/logos/-once-tv.png" group-title="TV ABIERTA",MX - ONCE TV FHD
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX - ONCE TV FHD" tvg-logo="http://descargas.podzone.net/logos/-once-tv.png" group-title="TV ABIERTA",MX ONCE TV FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4035
-#EXTINF:-1 tvg-id="" tvg-name="MX- IMAGEN TV FHD" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="TV ABIERTA",MX- IMAGEN TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="MX- IMAGEN TV FHD" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="TV ABIERTA",MX IMAGEN TV FHD
 http://tv.nousiptv.com:8080/virolawa/193723/1124600
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MX - IMAGEN TV" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="TV ABIERTA",MX - IMAGEN TV
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MX - IMAGEN TV" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="TV ABIERTA",MX IMAGEN TV
 http://tv.nousiptv.com:8080/virolawa/193723/4149
-#EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="MX - ADN 40" tvg-logo="http://descargas.podzone.net/logos/-ADN-40.png" group-title="TV ABIERTA",MX - ADN 40
+#EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="MX - ADN 40" tvg-logo="http://descargas.podzone.net/logos/-ADN-40.png" group-title="TV ABIERTA",MX ADN 40
 http://tv.nousiptv.com:8080/virolawa/193723/4025
 #EXTINF:-1 tvg-id="TDN.mx" tvg-name="MX - TUDN MX FHD" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="DEPORTES",MX - TUDN MX FHD
 http://tv.nousiptv.com:8080/virolawa/193723/1105665
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZ CINEMA FHD" tvg-logo="http://descargas.podzone.net/logos/-AZ-cinema.png" group-title="CINE",MX AZ CINEMA FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4086
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CORAZON HD " tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="TV ABIERTA",MX - CORAZON HD 
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CORAZON HD " tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="TV ABIERTA",MX CORAZON HD 
 http://tv.nousiptv.com:8080/virolawa/193723/1155857
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX - AZ CORAZON" tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="TV ABIERTA",MX - AZ CORAZON
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX - AZ CORAZON" tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="TV ABIERTA",MX  AZ CORAZON
 http://tv.nousiptv.com:8080/virolawa/193723/4026
-#EXTINF:-1 tvg-id="" tvg-name="MX - Comedy Central" tvg-logo="http://descargas.podzone.net/logos/-comedy-central-mx.png" group-title="ENTRETENIMIENTO",ENT - Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name="MX - Comedy Central" tvg-logo="http://descargas.podzone.net/logos/-comedy-central-mx.png" group-title="ENTRETENIMIENTO",ENT Comedy Central
 http://tv.nousiptv.com:8080/virolawa/193723/1158426
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="NOTICIAS",MX - TELEFORMULA
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="NOTICIAS",MX TELEFORMULA
 http://tv.nousiptv.com:8080/virolawa/193723/4129
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA FHD" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title=NOTICIAS",MX - TELEFORMULA FHD
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA FHD" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title=NOTICIAS",MX TELEFORMULA FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4036
 #EXTINF:-1 tvg-id="" tvg-name="ES - TAQUILLA 1" tvg-logo="http://descargas.podzone.net/logos/-TAQUILLA-1.png" group-title="ESPAÑA",ES - TAQUILLA 1
 http://tv.nousiptv.com:8080/virolawa/193723/1156039
