@@ -1,52 +1,52 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »1«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="CULTURA",CUL• TLC (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »1«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="CULTURA",MX• TLC (HD) »1«
 http://fastream.xyz:8080/936828595tv/c173z0o/447
-#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »2«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="CULTURA",CUL• TLC (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »2«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="CULTURA",MX• TLC (HD) »2«
 http://fastream.xyz:8080/936828595tv/c173z0o/448
 #EXTM3U
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC- DISCOVERY EN ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-discovery-en-espanol.png" group-title="CULTURA",CUL- DISCOVERY EN ESPAÑOL
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC- DISCOVERY EN ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-discovery-en-espanol.png" group-title="CULTURA",MX DISCOVERY EN ESPAÑOL
 http://tv.nousiptv.com:8080/virolawa/193723/56304
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MYC - DISCOVERY CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="CULTURA",CUL - DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MYC - DISCOVERY CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="CULTURA",MX DISCOVERY CHANNEL FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4069
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC - DISCOVERY CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="CULTURA",CUL - DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC - DISCOVERY CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="CULTURA",MX DISCOVERY CHANNEL
 http://tv.nousiptv.com:8080/virolawa/193723/1155807
-#EXTINF:-1 tvg-id="" tvg-name="MYC - DISCOVERY ID FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="CULTURA",CUL - DISCOVERY ID FHD
+#EXTINF:-1 tvg-id="" tvg-name="MYC - DISCOVERY ID FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="CULTURA",MX DISCOVERY ID FHD
 http://tv.nousiptv.com:8080/virolawa/193723/1156012
-#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="MyC - DISCOVERY ID" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="CULTURA",CUL - DISCOVERY ID
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="MyC - DISCOVERY ID" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="CULTURA",MX DISCOVERY ID
 http://tv.nousiptv.com:8080/virolawa/193723/4123
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MYC - DISCOVERY HOME & HEALTH FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="CULTURA",CUL - DISCOVERY HOME & HEALTH FHD
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MYC - DISCOVERY HOME & HEALTH FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="CULTURA",MX DISCOVERY HOME & HEALTH FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4070
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MyC - DISCOVERY HOME & HEALTH" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="CULTURA",CUL - DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MyC - DISCOVERY HOME & HEALTH" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="CULTURA",MX DISCOVERY HOME & HEALTH
 http://tv.nousiptv.com:8080/virolawa/193723/1155816
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MYC - DISCOVERY THEATER FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="CULTURA",CUL - DISCOVERY THEATER FHD
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MYC - DISCOVERY THEATER FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="CULTURA",MX DISCOVERY THEATER FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4073
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MyC - DISCOVERY THEATER" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="CULTURA",CUL - DISCOVERY THEATER
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MyC - DISCOVERY THEATER" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="CULTURA",MX DISCOVERY THEATER
 http://tv.nousiptv.com:8080/virolawa/193723/4119
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MYC  - DISCOVERY WORLD FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="CULTURA",CUL  - DISCOVERY WORLD FHD
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MYC  - DISCOVERY WORLD FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="CULTURA",MX DISCOVERY WORLD FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4076
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MyC - DISCOVERY WORLD" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="CULTURA",CUL - DISCOVERY WORLD
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MyC - DISCOVERY WORLD" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="CULTURA",MX DISCOVERY WORLD
 http://tv.nousiptv.com:8080/virolawa/193723/1155812
-#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="MyC - DISCOVERY SCIENCE" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="CULTURA",CUL - DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="MyC - DISCOVERY SCIENCE" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="CULTURA",MX DISCOVERY SCIENCE
 http://tv.nousiptv.com:8080/virolawa/193723/1155818
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MyC - DISCOVERY TLC" tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="CULTURA",CUL - DISCOVERY TLC
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="MyC - DISCOVERY TLC" tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="CULTURA",MX DISCOVERY TLC
 http://tv.nousiptv.com:8080/virolawa/193723/1155820
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MYC - ANIMAL PLANET FHD" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="CULTURA",CUL - ANIMAL PLANET FHD
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MYC - ANIMAL PLANET FHD" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="CULTURA",MX ANIMAL PLANET FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4067
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MyC - ANIMAL PLANET" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="CULTURA",CUL - ANIMAL PLANET
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MyC - ANIMAL PLANET" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="CULTURA",MX ANIMAL PLANET
 http://tv.nousiptv.com:8080/virolawa/193723/1155797
-#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MYC - HISTORY CHANEL FHD" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="CULTURA",CUL - HISTORY CHANEL FHD
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MYC - HISTORY CHANEL FHD" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="CULTURA",MX HISTORY CHANEL FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4093
-#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MyC - HISTORY CHANEL HD" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="CULTURA",CUL - HISTORY CHANEL HD
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MyC - HISTORY CHANEL HD" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="CULTURA",MX HISTORY CHANEL HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155804
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="MyC - H2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="CULTURA",CUL - H2
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="MyC - H2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="CULTURA",MX H2
 http://tv.nousiptv.com:8080/virolawa/193723/4005
-#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MYC - NATGEO FHD" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="CULTURA",CUL - NATGEO FHD
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MYC - NATGEO FHD" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="CULTURA",MX NATGEO FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4097
-#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MyC - NATGEO" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="CULTURA",CUL - NATGEO
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MyC - NATGEO" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="CULTURA",MX NATGEO
 http://tv.nousiptv.com:8080/virolawa/193723/4126
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="MYC - TLC FHD" tvg-logo="http://descargas.podzone.net/logos2/-TLC.png" group-title="CULTURA",CUL - TLC FHD
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="MYC - TLC FHD" tvg-logo="http://descargas.podzone.net/logos2/-TLC.png" group-title="CULTURA",MX TLC FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4074
-#EXTINF:-1 tvg-id="" tvg-name="MyC - HGTV HD" tvg-logo="http://descargas.podzone.net/logos/-HGTV.png" group-title="CULTURA",CUL - HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="MyC - HGTV HD" tvg-logo="http://descargas.podzone.net/logos/-HGTV.png" group-title="CULTURA",MX HGTV HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155823
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="MyC - RT ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-RT-espanol.png" group-title="NOTICIAS",MX- RT ESPAÑOL
 http://tv.nousiptv.com:8080/virolawa/193723/1155802
@@ -79,33 +79,33 @@ http://tv.nousiptv.com:8080/virolawa/193723/3962
 http://tv.nousiptv.com:8080/virolawa/193723/1155904
 #EXTINF:-1 tvg-id="" tvg-name="LD - VIX LO MEJOR DE LIGA MX " tvg-logo="http://descargas.podzone.net/logos/-Vix.png" group-title="DEPORTES",LD - VIX LO MEJOR DE LIGA MX 
 http://tv.nousiptv.com:8080/virolawa/193723/1158436
-#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO " tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="CINE",CINE - HBO 
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO " tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="CINE",MX HBO 
 http://tv.nousiptv.com:8080/virolawa/193723/1155792
-#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO HD (DUAL AUDIO)" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="CINE",CINE - HBO HD (DUAL AUDIO)
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO HD (DUAL AUDIO)" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="CINE",MX HBO HD (DUAL AUDIO)
 http://tv.nousiptv.com:8080/virolawa/193723/1173791
-#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="CINE",CINE - HBO FHD
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="CINE",MX HBO FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4112
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="CINE",CINE - HBO 2
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="CINE",MX HBO 2
 http://tv.nousiptv.com:8080/virolawa/193723/1155794
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="CINE",CINE - HBO 2 FHD
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="CINE",MX HBO 2 FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4095
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO PLUS + FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="CINE",CINE - HBO PLUS + FHD
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO PLUS + FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="CINE",MX HBO PLUS + FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4109
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO PLUS +" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="CINE",CINE - HBO PLUS +
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO PLUS +" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="CINE",MX HBO PLUS +
 http://tv.nousiptv.com:8080/virolawa/193723/4003
-#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="CINE - HBO SIGNATURE" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="CINE",CINE - HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="CINE - HBO SIGNATURE" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="CINE",MX HBO SIGNATURE
 http://tv.nousiptv.com:8080/virolawa/193723/1155796
-#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO XTREME FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="CINE",CINE - HBO XTREME FHD
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO XTREME FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="CINE",MX HBO XTREME FHD
 http://tv.nousiptv.com:8080/virolawa/193723/8226
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO XTREME" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="CINE",CINE - HBO XTREME
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO XTREME" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="CINE",MX HBO XTREME
 http://tv.nousiptv.com:8080/virolawa/193723/44341
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="CINE",CINE - HBO POP FHD
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="CINE",MX HBO POP FHD
 http://tv.nousiptv.com:8080/virolawa/193723/8246
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="CINE",CINE - HBO POP
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="CINE",MX HBO POP
 http://tv.nousiptv.com:8080/virolawa/193723/47445
-#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - HBO FAMILY " tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="CINE",CINE - HBO FAMILY 
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - HBO FAMILY " tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="CINE",MX HBO FAMILY 
 http://tv.nousiptv.com:8080/virolawa/193723/4017
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO MUNDI" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="CINE",CINE - HBO MUNDI
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO MUNDI" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="CINE",MX HBO MUNDI
 http://tv.nousiptv.com:8080/virolawa/193723/1143815
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE EN ACCION" tvg-logo="data:image/png;base64,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" group-title="• CINE",CINE - CINE EN ACCION
 http://tv.nousiptv.com:8080/virolawa/193723/1180733
@@ -137,147 +137,147 @@ http://tv.nousiptv.com:8080/virolawa/193723/1202401
 http://tv.nousiptv.com:8080/virolawa/193723/1202811
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA AVENTURA" tvg-logo="data:image/png;base64,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" group-title="• CINE",CINE - CINEMA AVENTURA
 http://tv.nousiptv.com:8080/virolawa/193723/1219095
-#EXTINF:-1 tvg-id="" tvg-name="CINE - EUROPA EUROPA" tvg-logo="http://descargas.podzone.net/logos/-europa-europa.png" group-title="CINE",CINE - EUROPA EUROPA
+#EXTINF:-1 tvg-id="" tvg-name="CINE - EUROPA EUROPA" tvg-logo="http://descargas.podzone.net/logos/-europa-europa.png" group-title="CINE",MX EUROPA EUROPA
 http://tv.nousiptv.com:8080/virolawa/193723/33359
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="CINE",CINE - TNT FHD
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="CINE",MX TNT FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4103
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="CINE",CINE - TNT
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="CINE"MX TNT
 http://tv.nousiptv.com:8080/virolawa/193723/4010
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="CINE",CINE - TNT SERIES FHD
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="CINE",MX TNT SERIES FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4050
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="CINE",CINE - TNT SERIES
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="CINE",MX TNT SERIES
 http://tv.nousiptv.com:8080/virolawa/193723/1156004
-#EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - STAR CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="CINE",CINE - STAR CHANNEL FHD
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - STAR CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="CINE",MX STAR CHANNEL FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4022
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - STAR CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="CINE",CINE - STAR CHANNEL
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - STAR CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="CINE",MX STAR CHANNEL
 http://tv.nousiptv.com:8080/virolawa/193723/4121
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL FHD" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="CINE",CINE - CINECANAL FHD
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL FHD" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="CINE",MX CINECANAL FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4068
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="CINE",CINE - CINECANAL
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="CINE",MX CINECANAL
 http://tv.nousiptv.com:8080/virolawa/193723/1155785
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY FHD" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="CINE",CINE - SONY FHD
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY FHD" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="CINE",MX SONY FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4048
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="CINE",CINE - SONY
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="CINE",MX SONY
 http://tv.nousiptv.com:8080/virolawa/193723/1155800
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY MOVIES" tvg-logo="http://descargas.podzone.net/logos/-sony-movies.png" group-title="CINE",MX - SONY MOVIES
 http://tv.nousiptv.com:8080/virolawa/193723/1143816
 #EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="CINE",MX - PARAMOUNT NETWORK
 http://tv.nousiptv.com:8080/virolawa/193723/4065
-#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK HD" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="CINE",MX - PARAMOUNT NETWORK HD
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK HD" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="CINE",MX PARAMOUNT NETWORK HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155799
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC FHD" tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="CINE",MX - AMC FHD
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC FHD" tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="CINE",MX AMC FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4085
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC" tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="CINE",MX - AMC
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC" tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="CINE",MX AMC
 http://tv.nousiptv.com:8080/virolawa/193723/4118
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E FHD" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="CINE",MX - A&E FHD
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E FHD" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="CINE",MX A&E FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4037
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="CINE",MX - A&E
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="CINE",MX A&E
 http://tv.nousiptv.com:8080/virolawa/193723/1156013
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN FHD" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="CINE",MX - AXN FHD
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN FHD" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="CINE",MX AXN FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4038
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="CINE",MX - AXN
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="CINE",MX AXN
 http://tv.nousiptv.com:8080/virolawa/193723/1155784
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX FHD" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="CINE",MX - CINEMAX FHD
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX FHD" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="CINE",MX CINEMAX FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4110
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="CINE",MX - CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="CINE",MX CINEMAX
 http://tv.nousiptv.com:8080/virolawa/193723/1068350
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX FHD" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="CINE",MX - FX FHD
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX FHD" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="CINE",MX FX FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4044
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="CINE - FX HD" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="CINE",MX - FX HD
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="CINE - FX HD" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="CINE",MX FX HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155789
-#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="CINE - SYFY" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="CINE",MX - SYFY
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="CINE - SYFY" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="CINE",MX SYFY
 http://tv.nousiptv.com:8080/virolawa/193723/3958
-#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="CINE - SYFY FHD" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="CINE",MX - SYFY FHD
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="CINE - SYFY FHD" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="CINE",MX SYFY FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4049
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="CINE - SPACE FHD" tvg-logo="https://i.pinimg.com/originals/3c/c3/f3/3cc3f3c0622d2d0f516dac097ae0eb0f.jpg" group-title="CINE",MX - SPACE FHD
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="CINE - SPACE FHD" tvg-logo="https://i.pinimg.com/originals/3c/c3/f3/3cc3f3c0622d2d0f516dac097ae0eb0f.jpg" group-title="CINE",MX SPACE FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4099
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER FHD" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="CINE",MX - WARNER FHD
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER FHD" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="CINE",MX WARNER FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4053
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="CINE",MX - WARNER
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="CINE",MX WARNER
 http://tv.nousiptv.com:8080/virolawa/193723/1155808
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DC UNIVERSE" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DC-UNIVERSE.png" group-title="CINE",MX - CINEMA DC UNIVERSE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DC UNIVERSE" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DC-UNIVERSE.png" group-title="CINE",MX CINEMA DC UNIVERSE
 http://tv.nousiptv.com:8080/virolawa/193723/1161848
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DREAMWORKS" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DREAMWORKS.png" group-title="CINE",MX - CINEMA DREAMWORKS
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DREAMWORKS" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DREAMWORKS.png" group-title="CINE",MX CINEMA DREAMWORKS
 http://tv.nousiptv.com:8080/virolawa/193723/1161849
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="CINE",MX - GOLDEN
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="CINE",MX GOLDEN
 http://tv.nousiptv.com:8080/virolawa/193723/1155790
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="CINE - GOLDEN EDGE" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png" group-title="CINE",MX - GOLDEN EDGE
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="CINE - GOLDEN EDGE" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png" group-title="CINE",MX GOLDEN EDGE
 http://tv.nousiptv.com:8080/virolawa/193723/1155791
-#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="CINE - GOLDEN PREMIERE" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="• CINE",MX - GOLDEN PREMIERE
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="CINE - GOLDEN PREMIERE" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="• CINE",MX GOLDEN PREMIERE
 http://tv.nousiptv.com:8080/virolawa/193723/4091
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN PLUS" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="CINE",CMX - GOLDEN PLUS
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN PLUS" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="CINE",MX GOLDEN PLUS
 http://tv.nousiptv.com:8080/virolawa/193723/1148196
-#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="CINE - GOLDEN PREMIERE 2" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="CINE",MX - GOLDEN PREMIERE 2
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="CINE - GOLDEN PREMIERE 2" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="CINE",MX GOLDEN PREMIERE 2
 http://tv.nousiptv.com:8080/virolawa/193723/1148844
-#EXTINF:-1 tvg-id="" tvg-name="CINE - DE PELICULA PLUS" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png" group-title="CINE",MX - DE PELICULA PLUS
+#EXTINF:-1 tvg-id="" tvg-name="CINE - DE PELICULA PLUS" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png" group-title="CINE",MX DE PELICULA PLUS
 http://tv.nousiptv.com:8080/virolawa/193723/1155788
-#EXTINF:-1 tvg-id="" tvg-name="CINE - DE PELICULA" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="CINE",MX - DE PELICULA
+#EXTINF:-1 tvg-id="" tvg-name="CINE - DE PELICULA" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="CINE",MX DE PELICULA
 http://tv.nousiptv.com:8080/virolawa/193723/1155786
-#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - SUNDANCE TV" tvg-logo="http://descargas.podzone.net/logos/-sundance.png" group-title="CINE",MX - SUNDANCE TV
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - SUNDANCE TV" tvg-logo="http://descargas.podzone.net/logos/-sundance.png" group-title="CINE",MX SUNDANCE TV
 http://tv.nousiptv.com:8080/virolawa/193723/4101
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE - CINE LATINO" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png" group-title="CINE",MX - CINE LATINO
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE - CINE LATINO" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png" group-title="CINE",MX CINE LATINO
 http://tv.nousiptv.com:8080/virolawa/193723/4136
-#EXTINF:-1 tvg-id="CinemaDinamita.co" tvg-name="CINE - CINEMA DINAMITA" tvg-logo="http://descargas.podzone.net/logos/-cinema-dinamita.png" group-title="CINE",MX - CINEMA DINAMITA
+#EXTINF:-1 tvg-id="CinemaDinamita.co" tvg-name="CINE - CINEMA DINAMITA" tvg-logo="http://descargas.podzone.net/logos/-cinema-dinamita.png" group-title="CINE",MX CINEMA DINAMITA
 http://tv.nousiptv.com:8080/virolawa/193723/4142
-#EXTINF:-1 tvg-id="ClaroCinema.co" tvg-name="CINE - CLARO CINEMA" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png" group-title="CINE",MX - CLARO CINEMA
+#EXTINF:-1 tvg-id="ClaroCinema.co" tvg-name="CINE - CLARO CINEMA" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png" group-title="CINE",MX CLARO CINEMA
 http://tv.nousiptv.com:8080/virolawa/193723/4145
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - CINE MANIA" tvg-logo="http://descargas.podzone.net/logos/-cine-mania.png" group-title="CINE",MX - CINE MANIA
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - CINE MANIA" tvg-logo="http://descargas.podzone.net/logos/-cine-mania.png" group-title="CINE",MX CINE MANIA
 http://tv.nousiptv.com:8080/virolawa/193723/1148843
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA HORROR" tvg-logo="http://descargas.podzone.net/logos/-cinema-horror.png" group-title="CINE",MX - CINEMA HORROR
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA HORROR" tvg-logo="http://descargas.podzone.net/logos/-cinema-horror.png" group-title="CINE",MX CINEMA HORROR
 http://tv.nousiptv.com:8080/virolawa/193723/1156006
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DISNEY PIXAR" tvg-logo="http://descargas.podzone.net/logos/-cinema-disney-pixar.png" group-title="CINE",MX - CINEMA DISNEY PIXAR
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DISNEY PIXAR" tvg-logo="http://descargas.podzone.net/logos/-cinema-disney-pixar.png" group-title="CINE",MX CINEMA DISNEY PIXAR
 http://tv.nousiptv.com:8080/virolawa/193723/1155781
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png" group-title="CINE",MX - CINE ESTELAR
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png" group-title="CINE",MX CINE ESTELAR
 http://tv.nousiptv.com:8080/virolawa/193723/1156007
-#EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="CINE - MOVIE CENTER PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBdHYMAKhn4Wzk3tdM6iHR-ftiGKyE92ozA&s" group-title="CINE",CINE - MOVIE CENTER PREMIUM
+#EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="CINE - MOVIE CENTER PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBdHYMAKhn4Wzk3tdM6iHR-ftiGKyE92ozA&s" group-title="CINE",MX MOVIE CENTER PREMIUM
 http://tv.nousiptv.com:8080/virolawa/193723/1147993
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA FAMILIA" tvg-logo="http://descargas.podzone.net/logos2/-CINE-FAMILIA.png" group-title="CINE",MX - CINEMA FAMILIA
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA FAMILIA" tvg-logo="http://descargas.podzone.net/logos2/-CINE-FAMILIA.png" group-title="CINE",MX CINEMA FAMILIA
 http://tv.nousiptv.com:8080/virolawa/193723/1156760
-#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="CINE",MX - UNIVERSAL CHANNEL FHD
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="CINE",MX UNIVERSAL CHANNEL FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4054
-#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="CINE",MX - UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="CINE",MX UNIVERSAL CHANNEL
 http://tv.nousiptv.com:8080/virolawa/193723/1156005
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL FHD" tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="CINE",MX - STUDIO UNIVERSAL FHD
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL FHD" tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="CINE",MX STUDIO UNIVERSAL FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4100
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL" tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="CINE",MX - STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL" tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="CINE",MX STUDIO UNIVERSAL
 http://tv.nousiptv.com:8080/virolawa/193723/1155803
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL REALITY" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png" group-title="CINE",MX - UNIVERSAL REALITY
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL REALITY" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png" group-title="CINE",MX UNIVERSAL REALITY
 http://tv.nousiptv.com:8080/virolawa/193723/1119205
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CINEMA" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png" group-title="CINE",MX - UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CINEMA" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png" group-title="CINE",MX UNIVERSAL CINEMA
 http://tv.nousiptv.com:8080/virolawa/193723/1119206
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="CINE",MX - UNIVERSAL CRIME ESTE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="CINE",MX UNIVERSAL CRIME ESTE
 http://tv.nousiptv.com:8080/virolawa/193723/1119203
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="CINE",MX - UNIVERSAL PREMIER ESTE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="CINE",MX UNIVERSAL PREMIER ESTE
 http://tv.nousiptv.com:8080/virolawa/193723/1119204
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL COMEDY" tvg-logo="http://descargas.podzone.net/logos/-universal-comedy.png" group-title="CINE",MX - UNIVERSAL COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL COMEDY" tvg-logo="http://descargas.podzone.net/logos/-universal-comedy.png" group-title="CINE",MX UNIVERSAL COMEDY
 http://tv.nousiptv.com:8080/virolawa/193723/1119202
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="CINE",MX - UNIVERSAL CRIME OESTE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="CINE",MX UNIVERSAL CRIME OESTE
 http://tv.nousiptv.com:8080/virolawa/193723/1119200
-#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="CINE",MX - UNIVERSAL PREMIER OESTE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="CINE",MX UNIVERSAL PREMIER OESTE
 http://tv.nousiptv.com:8080/virolawa/193723/1119201
-#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="http://descargas.podzone.net/logos/-panico-tv.png" group-title="CINE",MX - PANICO TV HD
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="http://descargas.podzone.net/logos/-panico-tv.png" group-title="CINE",MX PANICO TV HD
 http://tv.nousiptv.com:8080/virolawa/193723/7436
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MULTICINEMA" tvg-logo="data:image/png;base64,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" group-title="CINE",CINE - MULTICINEMA
 http://tv.nousiptv.com:8080/virolawa/193723/1148845
-#EXTINF:-1 tvg-id="" tvg-name="CINE - DHE" tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="CINE",MX - DHE
+#EXTINF:-1 tvg-id="" tvg-name="CINE - DHE" tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="CINE",MX DHE
 http://tv.nousiptv.com:8080/virolawa/193723/24180
-#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA MARVEL STUDIOS" tvg-logo="http://descargas.podzone.net/logos/-cinema-marvel-studios.png" group-title="CINE",MX - CINEMA MARVEL STUDIOS
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA MARVEL STUDIOS" tvg-logo="http://descargas.podzone.net/logos/-cinema-marvel-studios.png" group-title="CINE",MX CINEMA MARVEL STUDIOS
 http://tv.nousiptv.com:8080/virolawa/193723/44728
-#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="CINE",MX - MORBID TV
+#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="CINE",MX MORBID TV
 http://tv.nousiptv.com:8080/virolawa/193723/33364
-#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT - E! ENTERTAINMENT FHD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="CULTURA",MX - E! ENTERTAINMENT FHD
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT - E! ENTERTAINMENT FHD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="CULTURA",MX E! ENTERTAINMENT FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4041
-#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -  E! ENTERTAINMENT HD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="CULTURA",MX -  E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -  E! ENTERTAINMENT HD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="CULTURA",MX E! ENTERTAINMENT HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155867
-#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="CULTURA",MX - DISCOVERY TURBO FHD
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="CULTURA",MX DISCOVERY TURBO FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4075
-#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="CULTURA",MX - DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="CULTURA",MX DISCOVERY TURBO
 http://tv.nousiptv.com:8080/virolawa/193723/1155871
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ENT - COMEDY CENTRAL FHD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="ENTRETENIMIENTO",ENT - COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ENT - COMEDY CENTRAL FHD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="ENTRETENIMIENTO",ENT COMEDY CENTRAL FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4039
-#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ENT - Comedy Central HD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="ENTRETENIMIENTO",ENT - Comedy Central HD
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ENT - Comedy Central HD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="ENTRETENIMIENTO",ENT Comedy Central HD
 http://tv.nousiptv.com:8080/virolawa/193723/1155872
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENT - DISTRITO COMEDIA FHD" tvg-logo="http://descargas.podzone.net/logos/-distrito-comedia.png" group-title="ENTRETENIMIENTO",ENT - DISTRITO COMEDIA FHD
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENT - DISTRITO COMEDIA FHD" tvg-logo="http://descargas.podzone.net/logos/-distrito-comedia.png" group-title="ENTRETENIMIENTO",ENT DISTRITO COMEDIA FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4040
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX - AZTECA UNO HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="TV ABIERTA",MX - AZTECA UNO HD
 http://tv.nousiptv.com:8080/virolawa/193723/4087
@@ -311,7 +311,7 @@ http://tv.nousiptv.com:8080/virolawa/193723/4031
 http://tv.nousiptv.com:8080/virolawa/193723/1155855
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX - ONCE TV FHD" tvg-logo="http://descargas.podzone.net/logos/-once-tv.png" group-title="TV ABIERTA",MX - ONCE TV FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4035
-#EXTINF:-1 tvg-id="" tvg-name="MX- IMAGEN TV FHD" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="MEXICO",MX- IMAGEN TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="MX- IMAGEN TV FHD" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="TV ABIERTA",MX- IMAGEN TV FHD
 http://tv.nousiptv.com:8080/virolawa/193723/1124600
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MX - IMAGEN TV" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="TV ABIERTA",MX - IMAGEN TV
 http://tv.nousiptv.com:8080/virolawa/193723/4149
@@ -319,7 +319,7 @@ http://tv.nousiptv.com:8080/virolawa/193723/4149
 http://tv.nousiptv.com:8080/virolawa/193723/4025
 #EXTINF:-1 tvg-id="TDN.mx" tvg-name="MX - TUDN MX FHD" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="DEPORTES",MX - TUDN MX FHD
 http://tv.nousiptv.com:8080/virolawa/193723/1105665
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZ CINEMA FHD" tvg-logo="http://descargas.podzone.net/logos/-AZ-cinema.png" group-title="CINE",MX - AZ CINEMA FHD
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZ CINEMA FHD" tvg-logo="http://descargas.podzone.net/logos/-AZ-cinema.png" group-title="CINE",MX AZ CINEMA FHD
 http://tv.nousiptv.com:8080/virolawa/193723/4086
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CORAZON HD " tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="TV ABIERTA",MX - CORAZON HD 
 http://tv.nousiptv.com:8080/virolawa/193723/1155857
@@ -684,7 +684,7 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2176
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2150
 #EXTINF:-1 tvg-id="I1263.70669.schedulesdirect.org" tvg-name="*MX: HISTORY CHANNEL LATINO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/history_channel_latino.png" group-title="CULTURA",*MX: HISTORY
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2078
-#EXTINF:-1 tvg-id="I1221.92054.schedulesdirect.org" tvg-name="*MX: HOLA TV" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/hola_tv.png" group-title="ENTRETENIMIENTO",*ENT: HOLA TV
+#EXTINF:-1 tvg-id="I1221.92054.schedulesdirect.org" tvg-name="*MX: HOLA TV" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/hola_tv.png" group-title="ENTRETENIMIENTO",MX: HOLA TV
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2080
 #EXTINF:-1 tvg-id="I1103.101111.schedulesdirect.org" tvg-name="*MX: IMAGEN" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/imagen.png" group-title="TV ABIERTA",*MX: IMAGEN
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2081
@@ -716,37 +716,37 @@ http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2156
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2185
 #EXTINF:-1 tvg-id="I1223.19385.schedulesdirect.org" tvg-name="*MX: SONY" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sony.png" group-title="CINE",*MX: SONY
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2106
-#EXTINF:-1 tvg-id="I449.76408.schedulesdirect.org" tvg-name="*MX: SONY CINE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sony_cine.png" group-title="CINE",*MX: SONY CINE
+#EXTINF:-1 tvg-id="I449.76408.schedulesdirect.org" tvg-name="*MX: SONY CINE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/sony_cine.png" group-title="CINE",MX: SONY CINE
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2145
-#EXTINF:-1 tvg-id="I1429.66349.schedulesdirect.org" tvg-name="*MX: SPACE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/space.png" group-title="CINE",*MX: SPACE
+#EXTINF:-1 tvg-id="I1429.66349.schedulesdirect.org" tvg-name="*MX: SPACE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/space.png" group-title="CINE",MX: SPACE
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2105
-#EXTINF:-1 tvg-id="I1211.88534.schedulesdirect.org" tvg-name="*MX: STAR CHANNEL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/star_channel.png" group-title="CINE",*MX: STAR CHANNEL
+#EXTINF:-1 tvg-id="I1211.88534.schedulesdirect.org" tvg-name="*MX: STAR CHANNEL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/star_channel.png" group-title="CINE",MX: STAR CHANNEL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2054
-#EXTINF:-1 tvg-id="I103.29017.schedulesdirect.org" tvg-name="*MX: STUDIO UNIVERSAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/studio_universal.png" group-title="CINE",*MX: STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="I103.29017.schedulesdirect.org" tvg-name="*MX: STUDIO UNIVERSAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/studio_universal.png" group-title="CINE",MX: STUDIO UNIVERSAL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2108
-#EXTINF:-1 tvg-id="I436.19246.schedulesdirect.org" tvg-name="*MX: TCM" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tcm.png" group-title="CINE",*MX: TCM
+#EXTINF:-1 tvg-id="I436.19246.schedulesdirect.org" tvg-name="*MX: TCM" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tcm.png" group-title="CINE",MX: TCM
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2112
-#EXTINF:-1 tvg-id="I153.34344.schedulesdirect.org" tvg-name="*MX: TELEFORMULA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/teleformula.png" group-title="NOTICIAS",*MX: TELEFORMULA
+#EXTINF:-1 tvg-id="I153.34344.schedulesdirect.org" tvg-name="*MX: TELEFORMULA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/teleformula.png" group-title="NOTICIAS",MX: TELEFORMULA
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2114
-#EXTINF:-1 tvg-id="I835.10239.schedulesdirect.org" tvg-name="*MX: TELEMUNDO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/telemundo.png" group-title="TV ABIERTA",*MX: TELEMUNDO
+#EXTINF:-1 tvg-id="I835.10239.schedulesdirect.org" tvg-name="*MX: TELEMUNDO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/telemundo.png" group-title="TV ABIERTA",MX: TELEMUNDO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2116
 #EXTINF:-1 tvg-id="I1226.64835.schedulesdirect.org" tvg-name="*MX: TELEMUNDO INT" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png" group-title="TV ABIERTA",*MX: TELEMUNDO INT
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2045
-#EXTINF:-1 tvg-id="I1419.80807.schedulesdirect.org" tvg-name="*MX: TNT" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt.png" group-title="CINE",*MX: TNT
+#EXTINF:-1 tvg-id="I1419.80807.schedulesdirect.org" tvg-name="*MX: TNT" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt.png" group-title="CINE",MX: TNT
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2120
-#EXTINF:-1 tvg-id="I1233.92075.schedulesdirect.org" tvg-name="*MX: TNT SERIES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt_series.png" group-title="CINE",*MX: TNT SERIES
+#EXTINF:-1 tvg-id="I1233.92075.schedulesdirect.org" tvg-name="*MX: TNT SERIES" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt_series.png" group-title="CINE",MX: TNT SERIES
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2121
-#EXTINF:-1 tvg-id="I189.50707.schedulesdirect.org" tvg-name="*MX: TNT SPORTS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt_sports.png" group-title="DEPORTES",*MX: TNT SPORTS
+#EXTINF:-1 tvg-id="I189.50707.schedulesdirect.org" tvg-name="*MX: TNT SPORTS" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tnt_sports.png" group-title="DEPORTES",MX: TNT SPORTS
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2122
-#EXTINF:-1 tvg-id="I1547.65129.schedulesdirect.org" tvg-name="*MX: TUDN MEXICO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_mexico.png" group-title="DEPORTES",*MX: TUDN 
+#EXTINF:-1 tvg-id="I1547.65129.schedulesdirect.org" tvg-name="*MX: TUDN MEXICO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_mexico.png" group-title="DEPORTES",MX: TUDN 
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2113
-#EXTINF:-1 tvg-id="I856.77033.schedulesdirect.org" tvg-name="*MX: TUDN USA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_usa.png" group-title="DEPORTES",*MX: TUDN USA
+#EXTINF:-1 tvg-id="I856.77033.schedulesdirect.org" tvg-name="*MX: TUDN USA" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/tudn_usa.png" group-title="DEPORTES",MX: TUDN USA
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2131
-#EXTINF:-1 tvg-id="I1242.77534.schedulesdirect.org" tvg-name="*MX: UNIVERSAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universal.png" group-title="CINE",*MX: UNIVERSAL
+#EXTINF:-1 tvg-id="I1242.77534.schedulesdirect.org" tvg-name="*MX: UNIVERSAL" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universal.png" group-title="CINE",MX: UNIVERSAL
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2129
-#EXTINF:-1 tvg-id="NONE" tvg-name="*MX: UNIVERSAL CRIME" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universal.png" group-title="CINE",*MX: UNIVERSAL CRIME
+#EXTINF:-1 tvg-id="NONE" tvg-name="*MX: UNIVERSAL CRIME" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universal.png" group-title="CINE",MX: UNIVERSAL CRIME
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2142
-#EXTINF:-1 tvg-id="NONE" tvg-name="*MX: UNIVERSAL PREMIER" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universal.png" group-title="CINE",*MX: UNIVERSAL PREMIER
+#EXTINF:-1 tvg-id="NONE" tvg-name="*MX: UNIVERSAL PREMIER" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universal.png" group-title="CINE",MX: UNIVERSAL PREMIER
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2141
 #EXTINF:-1 tvg-id="I3009.14791.schedulesdirect.org" tvg-name="*MX: UNIVERSO" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/universo.png" group-title="CINE",*MX: UNIVERSO
 http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2130
